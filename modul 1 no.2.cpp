@@ -22,5 +22,3 @@
          cout<< "Jumlah Item = 17\n";
          cout<< "Total Pembelian = 18000\n";
  }
-getch();
-}
